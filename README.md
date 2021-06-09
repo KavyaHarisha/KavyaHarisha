@@ -5,7 +5,7 @@
 - 💬 Ask me about anything on android development
 
 ## Connect me via:
-1.[Linkdin](https://www.linkedin.com/in/kavya-harisha-athmuri-84995261/) 
+1.[Linkedin](https://www.linkedin.com/in/kavya-harisha-athmuri-84995261/) 
 2.[Gmail](kavya.athmuri@gmail.com)
 
 <!--
