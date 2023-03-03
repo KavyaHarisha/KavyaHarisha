@@ -1,4 +1,4 @@
-### I am working at [Mobiquity](https://www.mobiquity.com/) as a `Senior Software Engineer`. I have a 6+ years solid background of experience as an Android developer.
+### I am working at [Mobiquity](https://www.mobiquity.com/) as a `Senior Software Engineer`. I have a 7+ years solid background of experience as an Android developer.
 
 - 🔭 I’m building android applications.
 
