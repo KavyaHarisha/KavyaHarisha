@@ -1,4 +1,4 @@
-### I am working at [Mobiquity](https://www.mobiquity.com/) as a `Senior Software Engineer`. I have a 7+ years solid background of experience as an Android developer.
+### I have a 7+ years solid background of experience as an Android developer.
 
 - 🔭 I’m building android applications.
 
@@ -6,7 +6,6 @@
 
 ## Connect me via:
 1.[Linkedin](https://www.linkedin.com/in/kavya-harisha-athmuri-84995261/) 
-2.[Gmail](kavya.athmuri@gmail.com)
 
 <!--
 **KavyaHarisha/KavyaHarisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
