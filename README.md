@@ -1,4 +1,4 @@
-### I have a 7+ years solid background of experience as an Android developer.
+### I have a 8+ years solid background of experience as an Android developer.
 
 - 🔭 I’m building android applications.
 
